@@ -1,0 +1,12 @@
+C:\Users\hliva\source\repos\WSS\WSS\bin\Release\netcoreapp2.2\ubuntu.16.10-x64\libhostpolicy.so
+C:\Users\hliva\source\repos\WSS\WSS\bin\Release\netcoreapp2.2\ubuntu.16.10-x64\libhostfxr.so
+C:\Users\hliva\source\repos\WSS\WSS\bin\Release\netcoreapp2.2\ubuntu.16.10-x64\WSS
+C:\Users\hliva\source\repos\WSS\WSS\bin\Release\netcoreapp2.2\ubuntu.16.10-x64\WSS.deps.json
+C:\Users\hliva\source\repos\WSS\WSS\bin\Release\netcoreapp2.2\ubuntu.16.10-x64\WSS.runtimeconfig.json
+C:\Users\hliva\source\repos\WSS\WSS\bin\Release\netcoreapp2.2\ubuntu.16.10-x64\WSS.runtimeconfig.dev.json
+C:\Users\hliva\source\repos\WSS\WSS\bin\Release\netcoreapp2.2\ubuntu.16.10-x64\WSS.dll
+C:\Users\hliva\source\repos\WSS\WSS\bin\Release\netcoreapp2.2\ubuntu.16.10-x64\WSS.pdb
+C:\Users\hliva\source\repos\WSS\WSS\obj\Release\netcoreapp2.2\ubuntu.16.10-x64\WSS.AssemblyInfoInputs.cache
+C:\Users\hliva\source\repos\WSS\WSS\obj\Release\netcoreapp2.2\ubuntu.16.10-x64\WSS.AssemblyInfo.fs
+C:\Users\hliva\source\repos\WSS\WSS\obj\Release\netcoreapp2.2\ubuntu.16.10-x64\WSS.dll
+C:\Users\hliva\source\repos\WSS\WSS\obj\Release\netcoreapp2.2\ubuntu.16.10-x64\WSS.pdb

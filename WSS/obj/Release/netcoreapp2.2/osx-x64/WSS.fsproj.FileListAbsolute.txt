@@ -1,0 +1,13 @@
+C:\Users\hliva\source\repos\WSS\WSS\bin\Release\netcoreapp2.2\osx-x64\libhostpolicy.dylib
+C:\Users\hliva\source\repos\WSS\WSS\bin\Release\netcoreapp2.2\osx-x64\libhostfxr.dylib
+C:\Users\hliva\source\repos\WSS\WSS\bin\Release\netcoreapp2.2\osx-x64\WSS
+C:\Users\hliva\source\repos\WSS\WSS\bin\Release\netcoreapp2.2\osx-x64\WSS.deps.json
+C:\Users\hliva\source\repos\WSS\WSS\bin\Release\netcoreapp2.2\osx-x64\WSS.runtimeconfig.json
+C:\Users\hliva\source\repos\WSS\WSS\bin\Release\netcoreapp2.2\osx-x64\WSS.runtimeconfig.dev.json
+C:\Users\hliva\source\repos\WSS\WSS\bin\Release\netcoreapp2.2\osx-x64\WSS.dll
+C:\Users\hliva\source\repos\WSS\WSS\bin\Release\netcoreapp2.2\osx-x64\WSS.pdb
+C:\Users\hliva\source\repos\WSS\WSS\obj\Release\netcoreapp2.2\osx-x64\WSS.AssemblyInfoInputs.cache
+C:\Users\hliva\source\repos\WSS\WSS\obj\Release\netcoreapp2.2\osx-x64\WSS.AssemblyInfo.fs
+C:\Users\hliva\source\repos\WSS\WSS\obj\Release\netcoreapp2.2\osx-x64\WSS.dll
+C:\Users\hliva\source\repos\WSS\WSS\obj\Release\netcoreapp2.2\osx-x64\WSS.pdb
+C:\Users\hliva\source\repos\WSS\WSS\obj\Release\netcoreapp2.2\osx-x64\WSS.fsprojAssemblyReference.cache

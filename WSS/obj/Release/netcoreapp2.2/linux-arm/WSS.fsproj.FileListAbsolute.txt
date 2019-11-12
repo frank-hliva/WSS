@@ -1,0 +1,12 @@
+C:\Users\hliva\source\repos\WSS\WSS\bin\Release\netcoreapp2.2\linux-arm\libhostpolicy.so
+C:\Users\hliva\source\repos\WSS\WSS\bin\Release\netcoreapp2.2\linux-arm\libhostfxr.so
+C:\Users\hliva\source\repos\WSS\WSS\bin\Release\netcoreapp2.2\linux-arm\WSS
+C:\Users\hliva\source\repos\WSS\WSS\bin\Release\netcoreapp2.2\linux-arm\WSS.deps.json
+C:\Users\hliva\source\repos\WSS\WSS\bin\Release\netcoreapp2.2\linux-arm\WSS.runtimeconfig.json
+C:\Users\hliva\source\repos\WSS\WSS\bin\Release\netcoreapp2.2\linux-arm\WSS.runtimeconfig.dev.json
+C:\Users\hliva\source\repos\WSS\WSS\bin\Release\netcoreapp2.2\linux-arm\WSS.dll
+C:\Users\hliva\source\repos\WSS\WSS\bin\Release\netcoreapp2.2\linux-arm\WSS.pdb
+C:\Users\hliva\source\repos\WSS\WSS\obj\Release\netcoreapp2.2\linux-arm\WSS.AssemblyInfoInputs.cache
+C:\Users\hliva\source\repos\WSS\WSS\obj\Release\netcoreapp2.2\linux-arm\WSS.AssemblyInfo.fs
+C:\Users\hliva\source\repos\WSS\WSS\obj\Release\netcoreapp2.2\linux-arm\WSS.dll
+C:\Users\hliva\source\repos\WSS\WSS\obj\Release\netcoreapp2.2\linux-arm\WSS.pdb

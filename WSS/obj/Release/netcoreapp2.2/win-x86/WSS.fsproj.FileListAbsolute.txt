@@ -1,0 +1,12 @@
+C:\Users\hliva\source\repos\WSS\WSS\bin\Release\netcoreapp2.2\win-x86\hostpolicy.dll
+C:\Users\hliva\source\repos\WSS\WSS\bin\Release\netcoreapp2.2\win-x86\hostfxr.dll
+C:\Users\hliva\source\repos\WSS\WSS\bin\Release\netcoreapp2.2\win-x86\WSS.exe
+C:\Users\hliva\source\repos\WSS\WSS\bin\Release\netcoreapp2.2\win-x86\WSS.deps.json
+C:\Users\hliva\source\repos\WSS\WSS\bin\Release\netcoreapp2.2\win-x86\WSS.runtimeconfig.json
+C:\Users\hliva\source\repos\WSS\WSS\bin\Release\netcoreapp2.2\win-x86\WSS.runtimeconfig.dev.json
+C:\Users\hliva\source\repos\WSS\WSS\bin\Release\netcoreapp2.2\win-x86\WSS.dll
+C:\Users\hliva\source\repos\WSS\WSS\bin\Release\netcoreapp2.2\win-x86\WSS.pdb
+C:\Users\hliva\source\repos\WSS\WSS\obj\Release\netcoreapp2.2\win-x86\WSS.AssemblyInfoInputs.cache
+C:\Users\hliva\source\repos\WSS\WSS\obj\Release\netcoreapp2.2\win-x86\WSS.AssemblyInfo.fs
+C:\Users\hliva\source\repos\WSS\WSS\obj\Release\netcoreapp2.2\win-x86\WSS.dll
+C:\Users\hliva\source\repos\WSS\WSS\obj\Release\netcoreapp2.2\win-x86\WSS.pdb

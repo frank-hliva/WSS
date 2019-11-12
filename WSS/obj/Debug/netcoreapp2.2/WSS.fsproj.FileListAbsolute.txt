@@ -1,0 +1,10 @@
+C:\Users\hliva\source\repos\WSS\WSS\bin\Debug\netcoreapp2.2\WSS.deps.json
+C:\Users\hliva\source\repos\WSS\WSS\bin\Debug\netcoreapp2.2\WSS.runtimeconfig.json
+C:\Users\hliva\source\repos\WSS\WSS\bin\Debug\netcoreapp2.2\WSS.runtimeconfig.dev.json
+C:\Users\hliva\source\repos\WSS\WSS\bin\Debug\netcoreapp2.2\WSS.dll
+C:\Users\hliva\source\repos\WSS\WSS\obj\Debug\netcoreapp2.2\WSS.fsprojAssemblyReference.cache
+C:\Users\hliva\source\repos\WSS\WSS\obj\Debug\netcoreapp2.2\WSS.AssemblyInfoInputs.cache
+C:\Users\hliva\source\repos\WSS\WSS\obj\Debug\netcoreapp2.2\WSS.AssemblyInfo.fs
+C:\Users\hliva\source\repos\WSS\WSS\bin\Debug\netcoreapp2.2\WSS.pdb
+C:\Users\hliva\source\repos\WSS\WSS\obj\Debug\netcoreapp2.2\WSS.dll
+C:\Users\hliva\source\repos\WSS\WSS\obj\Debug\netcoreapp2.2\WSS.pdb
