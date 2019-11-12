@@ -18,7 +18,7 @@
     
 6. (vo windows) povoliť port 8181 vo firewalle (system by vas k tomu mal sam vyzvat pri spusteni appky) - v linuxe a na macu som to neskusal ale predpokladam ze rovnako treba povolit niekde tento port.
 7. zistit IP svojho PC (windows prikaz ipconfig, linux prikaz ifconfig)
-8. do \_config.js () na riadok obsahujuci ```WEBSOCKET_SERVER_URL``` zadame nasu ip adresu aj s portom ```8181``` na ktorom bezi nas server takto: 
+8. do \_config.js (v nasom FE) na riadok obsahujuci ```WEBSOCKET_SERVER_URL``` zadame nasu ip adresu aj s portom ```8181``` na ktorom bezi nas server takto: 
     ``` javascript
     export const WEBSOCKET_SERVER_URL = 'ws://192.168.129.241:8181';
     ```
